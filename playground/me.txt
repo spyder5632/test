@@ -1,3 +1,0 @@
-Name: Parth
-Skills: HTML, CSS, JS, ReactJS, Python, Bootstrap
-Email: parthvirkud65@gmail.com
